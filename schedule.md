@@ -31,7 +31,7 @@ Here's the schedule for the course.
 
 | 5 | 8 Azar | First Project Presentation | - | 404 :) |
 
-| 5 | 10 Azar | 	[Neural Networks]() | [Neural Networks Notebook](https://colab.research.google.com/drive/1EuCbMozXH19FbIKmFJtyiCqkpLv5-gh9?usp=sharing) | [Recording](https://www.aparat.com/v/yJt5u?playlist=1569063)
+| 5 | 10 Azar | [Neural Networks]() | [Neural Networks Notebook](https://colab.research.google.com/drive/1EuCbMozXH19FbIKmFJtyiCqkpLv5-gh9?usp=sharing) | [Recording](https://www.aparat.com/v/yJt5u?playlist=1569063)
 
 | 6 | 15 Azar | 	[Deep Learning]() | [Deep Learning Notebook](https://colab.research.google.com/drive/1KQAhxy2oVEvKzyyB7JqbGCKD7x-yso9B?usp=sharing) | [Recording](https://www.aparat.com/v/o42c0a9?playlist=1569063)
 
